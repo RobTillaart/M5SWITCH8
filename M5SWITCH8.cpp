@@ -1,7 +1,7 @@
 //
 //    FILE: M5SWITCH8.cpp
 //  AUTHOR: Rob Tillaart
-// VERSION: 0.1.1
+// VERSION: 0.1.2
 //    DATE: 2026-06-16
 // PURPOSE: Arduino library for M5STACK SWITCH8 and BUTTON8 devices.
 //     URL: https://github.com/RobTillaart/M5SWITCH8
