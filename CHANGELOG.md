@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.1.2] - 2026-06-19
 - add **M5BUTTON8.h** file wrapper. (now for real)
+- replaced magic register nr's with named constants.
+- minor edits
 
 ## [0.1.1] - 2026-06-18
 - add **void setColor(uint8_t led, uint8_t R, uint8_t G, uint8_t B)**
